@@ -2,9 +2,10 @@
 
 Predict biomass using the provided pasture images
 
-!(C:\Users\Dell\Downloads\510010962-b16b9628-a054-4e40-be65-ed0fc0600b7c.png)
+<img width="559" height="280" alt="510010962-b16b9628-a054-4e40-be65-ed0fc0600b7c" src="https://github.com/user-attachments/assets/668708cb-f821-47bd-add7-0b8c914566d1" />
 
 https://www.kaggle.com/competitions/csiro-biomass
+
 Overview
 
 Build models that predict pasture biomass from images, ground-truth measurements, and publicly available datasets. Farmers will use these models to determine when and how to graze their livestock.
