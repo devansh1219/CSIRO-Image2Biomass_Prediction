@@ -2,7 +2,7 @@
 
 Predict biomass using the provided pasture images
 
-(C:\Users\Dell\Downloads\510010962-b16b9628-a054-4e40-be65-ed0fc0600b7c.png)
+!(C:\Users\Dell\Downloads\510010962-b16b9628-a054-4e40-be65-ed0fc0600b7c.png)
 
 https://www.kaggle.com/competitions/csiro-biomass
 Overview
